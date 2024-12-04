@@ -1,0 +1,23 @@
+﻿,colour,WordItem2,corr_res,KeyTest.rt,keyTest.keys,keyTest.rt,keyTest.corr,participant,session
+,,,,,,,,2,1
+Valley,blue,,,,,,,2,1
+Book,blue,,,,,,,2,1
+Phone,green,,,,,,,2,1
+Mountain,green,,,,,,,2,1
+Bag,blue,,,,,,,2,1
+Friend,green,,,,,,,2,1
+,,,,,,,,2,1
+,,,,,,,,2,1
+,blue,Valley,y,1.4636309,,,1,2,1
+,green,Land,n,,n,1.0176186,1,2,1
+,green,Globe,n,,n,0.8022285,1,2,1
+,green,friend,y,1.1157598,,,1,2,1
+,green,Mountain,y,1.0211055,,,1,2,1
+,blue,Street,n,,n,0.8763673,1,2,1
+,blue,Pet,n,,n,0.7438967,1,2,1
+,green,Hammer,n,,n,1.1066073,1,2,1
+,blue,Bag,y,6.0637966,,,1,2,1
+,blue,Book,y,3.0644241,,,1,2,1
+,blue,Wire,n,,n,0.726091,1,2,1
+,green,phone,y,4.1469978,,,1,2,1
+,,mean RT,,2.812619117,,0.878801567,,2,1
